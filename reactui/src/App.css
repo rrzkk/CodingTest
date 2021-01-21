@@ -1,0 +1,25 @@
+html, body {
+  height: 100%; /* necessary */
+}
+#root{
+    height: 100%; /* necessary */
+}
+.bg {
+  /* The image used */
+  background-image: url(cryptocurrency.jpg);
+  min-height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+
+  justify-items: center;
+}
+.center{
+  padding: 30px;
+  background-color:rgba(255,255,254,0.9);
+}
+
+
