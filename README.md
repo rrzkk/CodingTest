@@ -1,5 +1,5 @@
 # CodingTest
-This is a coding test of UTU, developed by Zhekun(Vincent) Ren, using ReactJS, NodeJS, TypeScript, Postgres, Webpack and MaterialUI
+This is a smal project developed by Zhekun(Vincent) Ren used for display and filter data from database, using ReactJS, NodeJS, TypeScript, Postgres, Webpack and MaterialUI
 This project is tested by Jest and Postman, deployed using Docker, shell and AWS(ECS Fargate)
 Whole service is deployed on AWS(database, backend and frontend)
 
